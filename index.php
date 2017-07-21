@@ -33,4 +33,4 @@ function redirect($url, $time=0, $msg='') {
         exit($str);
     }
 }
-redirect('http://www.baidu.com');
+
