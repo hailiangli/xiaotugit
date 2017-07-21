@@ -2,7 +2,7 @@
 header("Content-type:text/html;charset=utf-8");
 //echo $str = "<meta http-equiv='Refresh' content='2;URL=http://pubmed.xiaotu.cn'>";exit;
 //header("location:http://www.taobao.com");
-echo headers_sent();exit;
+echo headers_sent();
 //echo '体统将在秒后进行跳转';exit;
 /**
  * URL重定向
